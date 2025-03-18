@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm Enrico!
 
-<!--
-**enricopierga/enricopierga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Master Computer Engineering student & Tennis Player** passionate about technology, innovation and problem solving through code and clay courts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🚀 I'm currently working on: `Academic Projects`
+- 🌱 I'm currently learning a lot of new stuffs!
+- 📫 How to reach me: [enricopiergallini24@gmail.com] • [LinkedIn](https://www.linkedin.com/in/enrico-piergallini-b90828292/)
+- ⚡ Fun fact: mentally & phisically not available before 9 a.m. ☕🔥
+
+---
