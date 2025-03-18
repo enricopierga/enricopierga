@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+           fetch-depth: 0  # 👈 importante per evitare l’errore 128
       - uses: Platane/snk@v3
         with:
           github_user_name: enricopierga
