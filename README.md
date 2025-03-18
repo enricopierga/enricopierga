@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Enrico!
 
-🎓 I'm a **Master Computer Engineering student & Tennis Player** passionate about technology, innovation and problem solving through code and clay courts.
+🎓🎾 I'm a **Master Computer Engineering student & Tennis Player** passionate about technology, innovation and problem solving through code and clay courts.
 
 ---
 
